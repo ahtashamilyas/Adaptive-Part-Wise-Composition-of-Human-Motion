@@ -1,0 +1,3 @@
+[submodule "stmc"]
+	path = stmc
+	url = https://github.com/nv-tlabs/stmc
