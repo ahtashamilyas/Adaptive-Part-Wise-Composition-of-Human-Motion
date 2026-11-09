@@ -1,4 +1,4 @@
-# Adaptive-Part-Wise-Composition-of-Human-Motion
+# Implementing AutoResearch to optimize Adaptive-Part-Wise-Composition-of-Human-Motion
 leveraging a pretrain Motion Diffusion Model, to create Motion Prediction.
 STMC
 Multi-Track Timeline Control · CVPR Workshop 2024
