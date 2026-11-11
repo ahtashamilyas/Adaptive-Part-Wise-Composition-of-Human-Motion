@@ -9,7 +9,8 @@ In the original paperMulti-Track Timeline Control for Text-Driven 3D Human Motio
 - Evaluation scripts and visualization
 
 
-### Our proposed idea is Leveraging the same motion diffusion models and investigate whether changing the stitching schedule during the denoising process has and effect on the results : 
+
+### Our proposed idea is Leveraging the same motion diffusion models  (MDM) and investigate whether changing the stitching schedule during the denoising process has and effect on the results Does it give smoother motion?: 
 
 2. Initially allow the model to establish a globally coherent body pose.
 
