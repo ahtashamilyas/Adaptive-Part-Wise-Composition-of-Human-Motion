@@ -12,7 +12,9 @@ the original paper provides:
 - Evaluation scripts and visualizatio
 
 - Our proposed small contribution
-Instead of designing an entirely new motion-generation model, we can build on an existing diffusion-based composition method and investigate adaptive part stitching.Training a neural network to predict optimal stitching schedules 
+Instead of designing an entirely new motion-generation model, we can build on an existing diffusion-based composition method and investigate (Late stitching
+Start composition only in later denoising steps.) and Progressive stitching
+Gradually increase the composition influence.then we can try adaptive part stitching where we Train a neural network to predict optimal stitching schedules in karpathy auto-research loop
 
 The idea is:
 1. Initially allow the model to establish a globally coherent body pose.
