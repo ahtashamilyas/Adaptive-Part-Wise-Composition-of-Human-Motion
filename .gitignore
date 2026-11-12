@@ -136,3 +136,4 @@ dmypy.json
 HumanML3D\HumanML3D\texts
 *.mp4
 *.npy
+*.obj
